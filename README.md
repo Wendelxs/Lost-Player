@@ -8,4 +8,6 @@ para aqueles que apenas tinha a curiosidade de contemplar o filme.*
 se foram utilizar o minha versão editada peço que ao menos dê os devidos créditos para mim, foi um trabalho exaustivo.
 vocês podem assistir o filme ou baixar ele diretamente do site que eu fiz e hospedei aqui mesmo no github
 
+Assista ao filme acessado esse link:
+https://github.com/Wendelxs/Lost-Player
 
