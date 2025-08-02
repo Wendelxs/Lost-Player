@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wendelxs.github.io/o-portal-da-ressurreicao-hd-dublado/sitemap.xml
