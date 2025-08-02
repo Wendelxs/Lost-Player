@@ -12,7 +12,7 @@ Sincronização manual com a versão DVD (HD 1080p).
 Exportação final com qualidade aprimorada e compatível para streaming ou download.
 
 📥 Acesso:
-Você pode assistir ou baixar o filme diretamente pelo site que criei e hospedei aqui mesmo no GitHub (https://github.com/Wendelxs/Lost-Player).
+Você pode assistir ou baixar o filme diretamente pelo site que criei e hospedei aqui mesmo no GitHub (https://wendelxs.github.io/o-portal-da-ressurreicao-hd-dublado/).
 
 🤝 Créditos:
 Se você for usar, compartilhar ou divulgar minha versão editada, por favor, dê os devidos créditos. Este foi um trabalho feito com muito carinho, pesquisa e muitas horas de edição.
