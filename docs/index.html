@@ -2,71 +2,73 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="imgs/botao-play.png" type="image/x-icon">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Luckiest+Guy&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
-    <title>Lost-Player</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Versus 2000 restaurado em HD com dublagem em português. Projeto de fã com áudio sincronizado e cenas inéditas legendadas.">
+  <meta name="keywords"
+    content="Versus 2000, filme dublado, Tak Sakaguchi, filme cult, versão restaurada, filme japonês, zumbis, versus o portal da ressurreição, dublagem pt-br">
+  <meta name="author" content="Wendel Silva">
+
+  <link rel="shortcut icon" href="imgs/botao-play.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Luckiest+Guy&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Lost-Player</title>
 
 </head>
 
 <body>
-    <header>
-        <h1>Lost-Player</h1>
-    </header>
-    <div class="container">
+  <header>
+    <h1>Lost-Player</h1>
+  </header>
+  <div class="container">
 
 
-        <div class="left">
-            <h1>O Portal da Ressurreição</h1>
-            <p>Existem 666 portais para o outro mundo. O portal 444 fica no Japão, em um lugar também chamado de
-                Floresta da Ressurreição, onde dois prisioneiros fugitivos se escondem antes de serem pegos por outros
-                bandidos e usados em trama sobrenatural.</p>
-            <button id="playBtn" onclick="abrirVideo()">▶ ASSISTIR</button>
-
-           
-        </div>
+    <div class="left">
+      <h1>O Portal da Ressurreição</h1>
+      <p>Existem 666 portais para o outro mundo. O portal 444 fica no Japão, em um lugar também chamado de
+        Floresta da Ressurreição, onde dois prisioneiros fugitivos se escondem antes de serem pegos por outros
+        bandidos e usados em trama sobrenatural.</p>
+      <button id="playBtn" onclick="abrirVideo()">▶ ASSISTIR</button>
 
 
     </div>
 
 
-    <div class="right">
+  </div>
 
-    </div>
-     <div class="video-fullscreen" id="videoContainer">
+
+  <div class="right">
+
+  </div>
+  <div class="video-fullscreen" id="videoContainer">
     <button class="fechar" onclick="fecharVideo()">✖</button>
-    <iframe
-      id="videoFrame"
-      src=""
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
+    <iframe id="videoFrame" src="" frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
   </div>
 
-    </div>
+  </div>
 
-    <script>
-        function abrirVideo() {
+  <script>
+    function abrirVideo() {
       const container = document.getElementById('videoContainer');
       const iframe = document.getElementById('videoFrame');
-      iframe.src = src="https://drive.google.com/file/d/1pwC0ybDy_6YU_bfnMoJ91s2q1dMGBQsa/preview";
+      iframe.src = src = "https://drive.google.com/file/d/1pwC0ybDy_6YU_bfnMoJ91s2q1dMGBQsa/preview";
       container.style.display = "flex";
     }
 
     function fecharVideo() {
       const container = document.getElementById('videoContainer');
       const iframe = document.getElementById('videoFrame');
-      iframe.src = ""; 
+      iframe.src = "";
       container.style.display = "none";
     }
-    </script>
+  </script>
 </body>
 
 </html>
