@@ -2,7 +2,7 @@
 🧟‍♂️ Versus (2000) – Projeto de Restauração em HD com Dublagem PT-BR
 Olá! Me chamo Wendel, e este é um projeto autoral que realizei com muito esforço e dedicação.
 
-O objetivo foi restaurar o filme Versus (O Portal da Ressurreição), lançado originalmente em 2000, e considerado por muitos como uma lost media em sua versão dublada em português. Utilizei uma cópia em DVD com áudio dublado e sincronizei cuidadosamente com uma versão japonesa em alta definição (DVD), recriando o filme com melhor qualidade de imagem e mantendo a imersão da dublagem original.
+O objetivo foi restaurar o filme Versus (O Portal da Ressurreição), lançado originalmente em 2000, e considerado por muitos como uma lost media tanto em sua versão japonesa quanto versão dublada em português, era extremamente difícil conseguir assistir esse filme, mas agora eu resolvi esse problema e trago a solução para vocês. Utilizei uma cópia rara de DVD com áudio dublado e sincronizei cuidadosamente com uma copia da versão japonesa em alta definição (DVD), recriando o filme com melhor qualidade de imagem e mantendo a imersão da dublagem original.
 
 💻 O que foi feito:
 Extração e limpeza do áudio dublado (DVD).
